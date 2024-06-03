@@ -1,0 +1,37 @@
+body{
+    background-color: darkseagreen;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    display: grid;
+    justify-content: center;
+}
+div{
+    display: grid;
+    justify-content: left;
+}
+#formulario-contacto{
+    background-color: rgb(94, 133, 94);
+    padding: 20px;
+    border: 1px ivory;
+    display: grid;
+    justify-items: center;
+    text-align: left;
+}
+
+#texto{
+    max-width: 300px;
+    min-width: 300px;
+    min-height: 300px;
+    max-height: 300px;
+}
+#enviar-form{
+    margin-top: 10px;
+    width: 60px;
+    margin-left: 245px;
+}
+#email{
+    width: 300px;
+}
+#nombre{
+    width: 300px;
+}

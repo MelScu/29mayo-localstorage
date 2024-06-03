@@ -1,0 +1,12 @@
+body{
+    background-color: darkseagreen;
+    color: black;
+}
+
+.usuario{
+    background-color: rgb(100, 155, 100);
+    border: 2px solid aliceblue;
+    width: 50%;
+    margin-bottom: 5px;
+
+}
